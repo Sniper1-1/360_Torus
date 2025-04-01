@@ -11,7 +11,9 @@ Adds a valley (mostly) vanilla-like moon to Lethal Company. ([Discord link](http
 > **POPULATION:** Abandoned<br>
 > **CONDITIONS:** An old mining facility established in a drained lakebed.<br>
 > **FAUNA:** Various wildlife has gradually returned to the area.
-![View of mine entrance](https://imgur.com/URJfPZz.png)
+![View of mine entrance](https://imgur.com/BCvJgyd.png)
+![View of tunnel](https://imgur.com/UY7Pl1F.png)
+![View from mine entrance](https://imgur.com/NYI1PM1.png)
 
 </details>
 
