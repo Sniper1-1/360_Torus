@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.4</summary>**
+
+ - Icon updated.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.3</summary>**
 
  - Readme pics.
