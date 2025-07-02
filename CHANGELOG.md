@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 0.1.6</summary>**
+
+ - Added Giant Sapsucker spawn.
+ - Add moon video.
+ - Added some flowers around a cabin.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.5</summary>**
 
  - Decorated cabins.
