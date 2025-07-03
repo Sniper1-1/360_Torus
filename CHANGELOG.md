@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.7</summary>**
+
+ - Added Universal Radar as a dependency because I forgot to do it earlier.
+
+</details>
+
+---
+
 **<details><summary>Version 0.1.6</summary>**
 
  - Added Giant Sapsucker spawn.
@@ -60,5 +68,3 @@
  - Initial standalone upload.
  
  </details>
- 
----
